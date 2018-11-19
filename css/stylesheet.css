@@ -1,0 +1,19 @@
+.navbar-cb {
+  background: #2c3e50;
+}
+.navbar-cb .navbar-brand,
+.navbar-cb .navbar-nav li a {
+  color: #fff;
+}
+.navbar-cb .navbar-brand:hover,
+.navbar-cb .navbar-nav li a:hover {
+  color: #18bc9c;
+  background: transparent;
+}
+header,
+.about {
+  background: #18bc9c;
+}
+footer {
+  background: #2c3e50;
+}
